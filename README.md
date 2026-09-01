@@ -38,7 +38,7 @@ High-Level Overview:
 ● Used to prevent fake certificates.
 ● Enables quick verification by employers or other institutions.
 ● Shows how blockchain can be used in education and credential verification.
-
+```
 <img width="877" height="731" alt="Screenshot 2026-08-03 113017" src="https://github.com/user-attachments/assets/d8d1d4db-b4fc-4acb-acbd-67af61ef142f" />
 
 
@@ -47,7 +47,7 @@ High-Level Overview:
 
 <img width="412" height="732" alt="Screenshot 2026-08-03 113051" src="https://github.com/user-attachments/assets/7a236b08-a81b-471a-b07e-5247aec86240" />
 
-```
+
 # Result:
 The decentralized certificate verification system was successfully implemented using an Ethereum smart contract. The certificate data hash was stored on the blockchain, and the verification function successfully compared the given certificate hash with the stored hash.
 
